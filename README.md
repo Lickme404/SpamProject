@@ -1,2 +1,0 @@
-# SpamProject
-Tutorial spam
